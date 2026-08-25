@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.venv/
+venv/
+env/
+.env
+.DS_Store
+.vscode/
+.idea/
+velocity_comparison/
+*.tif.aux.xml
+*.ovr
