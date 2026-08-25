@@ -1,0 +1,4 @@
+numpy>=1.23
+rasterio>=1.3
+fiona>=1.9
+matplotlib>=3.7
